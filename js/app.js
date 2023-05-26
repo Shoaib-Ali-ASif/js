@@ -1,6 +1,6 @@
 // Find the area of a rectangle where the length is 5 and the width is 8. 
  let length = 5;
- let width = 10;
+ let width = 8;
  let AreaOfRectangle = length * width;
  console.log (`AreaOfRectangle : ${AreaOfRectangle}` )
 
